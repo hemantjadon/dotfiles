@@ -1,0 +1,62 @@
+{
+  "groups": {
+    "user": {
+      "fg": "darkorange3",
+      "bg": "orange1",
+      "attrs": []
+    },
+    "time": {
+      "fg": "darkorange3",
+      "bg": "lightgoldenrod1",
+      "attrs": []
+    },
+    "date": {
+      "fg": "darkgreen",
+      "bg": "palegreen1",
+      "attrs": []
+    },
+
+    "session": {
+      "fg": "darkgreen",
+      "bg": "palegreen1"
+    },
+    "session:prefix": {
+      "fg": "darkorange3",
+      "bg": "orange1",
+      "attrs": []
+    },
+    "background": {
+      "bg": "grey15"
+    },
+    "window": {
+      "fg": "orange3",
+      "bg": "grey15",
+      "attrs": []
+    },
+    "window_status": {
+      "fg": "gray70",
+      "bg": "grey15",
+      "attrs": []
+    },
+    "window:divider": {
+      "fg": "darkorange3",
+      "bg": "grey15",
+      "attrs": []
+    },
+    "active_window_status": {
+      "fg": "darkseagreen1",
+      "bg": "grey15",
+      "attrs": []
+    },
+    "window:current": {
+      "fg": "darkgreen",
+      "bg": "seagreen1",
+      "attrs": []
+    },
+    "window_name": {
+      "fg": "darkgreen",
+      "bg": "seagreen1",
+      "attrs": []
+    }
+  }
+}
